@@ -2,7 +2,7 @@
 layout: page
 permalink: /building-facade-normal-estimation-crv/
 title: "Building Facades to Normal Maps: Adversarial Learning from Single View Images"
-description: Project page for our `Building Facades to Normal Maps – Adversarial Learning from Single View Images` work accepted at [`CRV 2021`](https://www.computerrobotvision.org/).
+description: Project page for our [`Building Facades to Normal Maps – Adversarial Learning from Single View Images`](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kWAlOAkAAAAJ&citation_for_view=kWAlOAkAAAAJ:qjMakFHDy7sC) work accepted at [`CRV 2021`](https://www.computerrobotvision.org/).
 nav: false
 ---
 
