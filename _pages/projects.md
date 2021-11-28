@@ -15,6 +15,12 @@ horizontal: false
 
   Studying the impact of noise in indoor localization on learnt scene memory representations and downstream question answering performance of embodied assistants.
 
+  - `Episodic Memory Question Answering`
+
+    Samyak Datta, Sameer Dharur, Vincent Cartillier, Ruta Desai, **Mukul Khanna**, Dhruv Batra and Devi Parikh
+
+    *Coming soon!*
+
 ---
 - ##### Research Fellow -- <span style="font-weight:400">[Robotics Research Center](https://robotics.iiit.ac.in)</span>, IIIT Hyderabad <img src="https://d1hl0z0ja1o93t.cloudfront.net/wp-content/uploads/2017/04/21165916/logo2.png" width="75px" align="right" style="margin:15px">
   
@@ -22,7 +28,7 @@ horizontal: false
 
   Advisor: [Prof. K. Madhava Krishna](https://www.iiit.ac.in/people/faculty/mkrishna/)
   
-  Worked on building facade [plane segmentation](https://www.scitepress.org/Papers/2021/102084/102084.pdf) and [surface normal estimation](building-facade-normal-estimation-crv)  for 3D reconstruction from drone-view images using deep learning and geometrical methods.
+  Worked on building facade [plane segmentation](https://www.scitepress.org/Papers/2021/102084/102084.pdf) and [surface normal estimation](/building-facade-normal-estimation-crv)  for 3D reconstruction from drone-view images using deep learning and geometrical methods.
 
 ---
 

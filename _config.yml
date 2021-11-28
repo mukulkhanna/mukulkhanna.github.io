@@ -53,10 +53,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: mukulkhanna # your GitHub user name
+cv_link: https://drive.google.com/file/d/1Byi9NeIdeUhT5N-5jbpoEK3-MCiQqy31/view?usp=sharing
 gitlab_username: # your GitLab user name
 twitter_username: mkulkhanna # your Twitter handle
 youtube_channel_link: https://www.youtube.com/channel/UC66w1T4oMv66Jn1LR5CW2yg
-linkedin_username: # your LinkedIn user name
+linkedin_username: mukul-khanna # your LinkedIn user name
 scholar_userid: kWAlOAkAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: mukulkhanna # your Medium username

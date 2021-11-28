@@ -1,4 +1,6 @@
 {% if site.email %}<a href="mailto:{{ site.email | encode_email }}" style="font-size: 2.2rem;"><i class="fas fa-envelope fa-xs"></i></a>{% endif %}
+<!-- {% if site.cv_link %}<a href="{{ site.cv_link }}" target="_blank" title="CV" style="font-size: 2.2rem;"><i class="far fa-file-alt fa-xs"></i></i></a>{% endif %} -->
+{% if site.cv_link %}<a href="{{ site.cv_link }}" target="_blank" title="CV" style="font-size: 2.2rem;"><i class="ai ai-cv fa-xs"></i></i></a>{% endif %}
 {% if site.orcid_id %}<a href="https://orcid.org/{{ site.orcid_id }}" target="_blank" title="ORCID" style="font-size: 2.2rem;"><i class="ai ai-orcid"></i></a>{% endif %}
 {% if site.scholar_userid %}<a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" style="font-size: 2.2rem;" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar fa-xs"></i></a>{% endif %}
 {% if site.publons_id %}<a href="https://publons.com/a/{{ site.publons_id }}/" target="_blank" title="Publons" style="font-size: 2.2rem;"><i class="ai ai-publons fa-xs"></i></a>{% endif %}
