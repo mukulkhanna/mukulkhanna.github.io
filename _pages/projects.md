@@ -62,7 +62,7 @@ horizontal: false
 
 - ##### Software Developer -- <span style="font-weight:400">[SRM Autonomous Underwater Vehicle](https://www.srmauvsoftware.github.io)</span><img src="https://srmauvsoftware.github.io/assets/img/logo/logo4.png" width="50px" align="right" style="margin:15px">
 
-  [May 2019 - Sep 2019]
+  [Sep 2017 - May 2019]
 
   Advisor: Prof. [Annapurani Panaiyappan](https://www.srmist.edu.in/engineering/dept-cse/faculty/drannapurani-panaiyappan-k)
 
