@@ -8,7 +8,7 @@ middle_name:
 last_name: Khanna
 email: mukul18khanna@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Personal website homepage of Mukul Khanna.
 # footer_text: >
 #   <a href="https://github.com/alshedivat/al-folio">[Theme]</a>.
 # footer_text: >
@@ -46,7 +46,7 @@ max_width: 800px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: profile_pic.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration

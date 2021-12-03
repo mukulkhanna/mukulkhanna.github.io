@@ -38,7 +38,7 @@ horizontal: false
 
   Advisor: [Prof. Shanmuganathan Raman](http://www.shanmuga.people.iitgn.ac.in/)
   
-  Worked on [HDR image and video reconstruction](https://github.com/mukulkhanna/fhdr) from single exposure LDR image (sequences) using Deep Learning.
+  Worked on [HDR image reconstruction](https://github.com/mukulkhanna/fhdr) from single exposure LDR image (sequences) using Deep Learning, and [HDRSloMo](https://drive.google.com/file/d/1KmxXKom4SEnKaMvA5bA9g5IGls9zLAPL/view?usp=sharing): Deep Weakly-Supervised High Frame-rate HDR Video Generation (manuscript in progress).
 
 ---
 - ##### Technical Writer and Editor -- <span style="font-weight:400">[ScoutAPM](http://scoutapm.com) </span><img src="https://assets.scoutapm.com/assets/public/scout_logo-f2ab3019302500d22b77f24685298b91e8b1fd4778ba5f67368cde418476f513.png" width="80px" align="right" style="margin:15px">
