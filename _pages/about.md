@@ -24,6 +24,4 @@ I'm an MS student at Georgia Tech advised by [Prof. Dhruv Batra](https://www.cc.
 
 On the side, I have been a [technical writer and editor](https://www.scoutapm.com/blog/author/mukul-khanna) for the [ScoutAPM](https://www.scoutapm.com) software development [blog](https://www.scoutapm.com/blog). Alongside, I've also dabbled with hosting a data science podcast ([Deep Neural Notebooks](https://www.youtube.com/playlist?list=PLKsk3K4Z-1AVwIzEi9pk-ayEh9uxdyweL)), where I interviewed academics and scientists about their research, insights and their journeys. I'm also interested in the ideas of [Zettelkasten](https://www.youtube.com/watch?v=lOY-drtTJX0) knowledge management and briefly took to [Youtube](https://www.youtube.com/channel/UC66w1T4oMv66Jn1LR5CW2yg) to share my experiences (which happened to garner 80k views and 1.3k subscribers).
 
-<!-- In my past time, I like to read -->
-<!-- And here is some photography and art that I've dabbled with in the last year. -->
 

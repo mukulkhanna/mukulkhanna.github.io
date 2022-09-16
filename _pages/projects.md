@@ -14,7 +14,7 @@ horizontal: true
   
   Advisor: [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) 
 
-  Continuing research at Prof. Batra's lab on procedural scene generation.
+  Continuing research at Prof. Batra's lab on procedural scene generation in Habitat.
 
 ---
 
