@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm an MS student at Georgia Tech advised by [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). My research interests lie on the intersection of computer vision and embodied AI. Previously, in 2020, I was a research fellow at the Robotics Research Center, IIIT Hyderabad, advised by [Prof. K. Madhava Krishna](https://www.iiit.ac.in/people/faculty/mkrishna/). Earlier yet, I was a research intern at IIT Gandhinagar, advised by [Prof. Shanmuga Raman](https://people.iitgn.ac.in/~shanmuga/).
+I'm an MS student at Georgia Tech advised by [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/). My research interests lie on the intersection of computer vision and embodied AI. Previously, in 2020, I was a research fellow at the Robotics Research Center, IIIT Hyderabad, advised by [Prof. K. Madhava Krishna](https://www.iiit.ac.in/people/faculty/mkrishna/). Earlier yet, I was a research intern at IIT Gandhinagar, advised by [Prof. Shanmuga Raman](https://people.iitgn.ac.in/~shanmuga/).
 
 <!-- In 2019, I was a Google Summer of Code ([GSoC](https://summerofcode.withgoogle.com/archive/2019/projects/6054863815835648/)) student for Open Robotics, where I worked on creating a documentation index for Gazebo. During my undergrad, I was also a part of my college's Autonomous Underwater Vehicle ([SRM-AUV](https://srmauvsoftware.github.io/)) team. -->
 

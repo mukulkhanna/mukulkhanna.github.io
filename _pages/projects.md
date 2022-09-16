@@ -5,18 +5,28 @@ permalink: /experience/
 description:
 nav: true
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
-- ##### * Research Intern -- <span style="font-weight:400">[CVMLP Lab](https://mlp.cc.gatech.edu/)</span> <img src="https://www.cc.gatech.edu/~parikh/static/img/lab/vil.png" width="70px" style="margin:15px" align="right">
+
+- ##### Graduate Research Assistant -- <span style="font-weight:400">[Georgia Tech](https://www.gatech.edu/)</span> <img src="https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png" width="70px" style="margin:15px" align="right">
   
-  [Apr 2021 - Present]
+  [Aug 2022 - Present]
+  
+  Advisor: [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) 
+
+  Continuing research at Prof. Batra's lab on procedural scene generation.
+
+---
+
+- ##### Research Intern -- <span style="font-weight:400">[CVMLP Lab](https://mlp.cc.gatech.edu/)</span> <img src="https://www.cc.gatech.edu/~parikh/static/img/lab/vil.png" width="70px" style="margin:15px" align="right">
+  
+  [Apr 2021 - Jul 2022]
   
   Advisor: [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) 
 
   Studying the impact of noise in indoor localization on learnt scene memory representations and downstream question answering performance of embodied assistants.
 
-  - `Episodic Memory Question Answering`\
-    Samyak Datta, Sameer Dharur, Vincent Cartillier, Ruta Desai, **Mukul Khanna**, Dhruv Batra and Devi Parikh
+  - [`Episodic Memory Question Answering`](https://samyak-268.github.io/emqa/)
 
     *Accepted at CVPR 2022!*
 
