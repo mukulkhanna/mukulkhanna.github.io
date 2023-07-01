@@ -50,6 +50,10 @@
   - firstname: ["Sanjay", "S."]
     url: https://www.sanjayharesh.com/
 
+"Shacklett":
+  - firstname: ["Brennan", "B."]
+    url: https://cs.stanford.edu/~bps/
+
 "Chang":
   - firstname: ["Angel X.", "A.", "Angel"]
     url: https://angelxuanchang.github.io/
