@@ -2,14 +2,17 @@
 ---
 
 <div class="row">
-  <div class="col-sm-2 abbr">
+  <div class="col-sm-3 abbr">
   {% if entry.abbr %}
     {% if site.data.venues[entry.abbr] %}
     <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
     {% else %}
     <abbr class="badge">{{entry.abbr}}</abbr>
     {% endif %}
-  {% endif %}
+    {% endif %}
+    {% if entry.img %}
+      <img src="{{ site.baseurl}}/{{entry.img}}" width="180px" style="margin-top: 10px">
+    {% endif %}
   </div>
 
   <div id="{{entry.key}}" class="col-sm-8">
@@ -20,10 +23,11 @@
       <div class="author">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
-          {% if author.last == site.scholar.last_name%}
+          {% if author.last contains site.scholar.last_name%}
             {% if site.scholar.first_name contains author.first%}
               {% assign author_is_self = true %}
             {% endif %}
+            
           {% endif %}
           {% assign coauthor_url = nil %}
           {% if site.data.coauthors[author.last] %}
@@ -95,7 +99,7 @@
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
     {% endif %}
     {% if entry.html %}
-      <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+      <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">WEBSITE</a>
     {% endif %}
     {% if entry.pdf %}
       {% if entry.pdf contains '://' %}

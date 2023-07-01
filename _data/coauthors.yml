@@ -1,3 +1,63 @@
+"Mottaghi":
+  - firstname: ["Roozbeh", "R."]
+    url: https://roozbehm.info/
+
+"Bisk":
+  - firstname: ["Yonatan", "Y."]
+    url: https://yonatanbisk.com/
+
+"Jain":
+  - firstname: ["Vidhi", "V."]
+    url: https://vidhijain.github.io/
+
+"Yang":
+  - firstname: ["Jimmy", "Tsung-Yen"]
+    url: https://sites.google.com/view/tyjimmyyang
+
+"Kira":
+  - firstname: ["Zsolt", "Z."]
+    url: https://faculty.cc.gatech.edu/~zk15/
+
+"Chaplot":
+  - firstname: ["Devendra", "Devendra Singh", "Devendra S"]
+    url: https://devendrachaplot.github.io/
+
+"Yenamandra":
+  - firstname: ["Sriram", "S."]
+    url: https://yvsriram.github.io/
+
+"Gervet":
+  - firstname: ["Theophile", "Theo", "T."]
+    url: https://theophilegervet.github.io/
+
+"Paxton":
+  - firstname: ["Chris", "C."]
+    url: https://cpaxton.github.io/
+
+"Ramachandran":
+  - firstname: ["Arun", "A."]
+    url: https://arunram.me/
+
+"Yadav":
+  - firstname: ["Karmesh", "K."]
+    url: https://www.karmeshyadav.com/
+
+"Jiang":
+  - firstname: ["Hanxiao", "H."]
+    url: https://jianghanxiao.github.io/
+
+"Haresh":
+  - firstname: ["Sanjay", "S."]
+    url: https://www.sanjayharesh.com/
+
+"Chang":
+  - firstname: ["Angel X.", "A.", "Angel"]
+    url: https://angelxuanchang.github.io/
+
+"Savva":
+  - firstname: ["Manolis", "M."]
+    url: https://msavva.github.io/
+
 "Datta":
   - firstname: ["Samyak", "S."]
     url: https://samyak-268.github.io/
@@ -25,6 +85,10 @@
 "Krishna":
   - firstname: ["K. M.", "K. Madhava", "K."]
     url: http://faculty.iiit.ac.in/~mkrishna/
+
+"Khan":
+  - firstname: ["Zeeshan", "Z."]
+    url: https://zeeshank95.github.io/
 
 "Raman":
   - firstname: ["Shanmuganathan", "S."]
