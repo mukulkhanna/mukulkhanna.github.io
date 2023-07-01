@@ -42,6 +42,26 @@
   - firstname: ["Karmesh", "K."]
     url: https://www.karmeshyadav.com/
 
+"Wang":
+  - firstname: ["Austin", "A."]
+    url: https://www.linkedin.com/in/austinspwang/
+
+"Clegg":
+  - firstname: ["Alex William", "A.", "Alexander"]
+    url: https://www.linkedin.com/in/alexander-clegg-68336839/
+
+"Undersander":
+  - firstname: ["Eric", "E."]
+    url: https://www.linkedin.com/in/ericu/
+
+"Turner":
+  - firstname: ["John", "J."]
+    url: https://www.linkedin.com/in/john-turner-6765073/
+
+"Mao":
+  - firstname: ["Yongsen", "Y."]
+    url: https://github.com/SamMaoYS
+
 "Jiang":
   - firstname: ["Hanxiao", "H."]
     url: https://jianghanxiao.github.io/
