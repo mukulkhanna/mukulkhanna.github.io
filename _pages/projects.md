@@ -12,9 +12,14 @@ horizontal: true
   
   [Aug 2022 - Present]
   
-  Advisor: [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) 
+  Advisor: [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/)
 
-  Continuing research at Prof. Batra's lab on procedural scene generation in Habitat.
+  PIs: [Manolis Savva](https://msavva.github.io/), [Angel Chang](https://angelxuanchang.github.io/)
+
+  Continuing research at Prof. Batra's lab on visual, embodied agents.
+
+  - [`Habitat Synthetic Scenes Dataset: An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation`](https://3dlg-hcvc.github.io/hssd)
+  - [`HomeRobot: Open Vocab Mobile Manipulation`](https://ovmm.github.io/)
 
 ---
 
