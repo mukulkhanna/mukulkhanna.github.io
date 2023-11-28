@@ -1,3 +1,32 @@
+
+"Min":
+  - firstname: ["So Yeon"]
+    url: https://soyeonm.github.io/
+
+"Shah":
+  - firstname: ["Kavit", "K."]
+    url: https://kavitshah.netlify.app/
+
+"Malik":
+  - firstname: ["Jitendra", "J."]
+    url: https://people.eecs.berkeley.edu/~malik/
+
+"Shah":
+  - firstname: ["Dhruv", "D."]
+    url: https://people.eecs.berkeley.edu/~shah/
+
+"Chang":
+  - firstname: ["Matthew", "M."]
+    url: https://matthewchang.github.io/
+
+"Chang*":
+  - firstname: ["Matthew", "M."]
+    url: https://matthewchang.github.io/
+
+"Gupta":
+  - firstname: ["Saurabh", "S."]
+    url: https://saurabhg.web.illinois.edu/
+
 "Mottaghi":
   - firstname: ["Roozbeh", "R."]
     url: https://roozbehm.info/
@@ -26,7 +55,15 @@
   - firstname: ["Sriram", "S."]
     url: https://yvsriram.github.io/
 
+"Yenamandra*":
+  - firstname: ["Sriram", "S."]
+    url: https://yvsriram.github.io/
+
 "Gervet":
+  - firstname: ["Theophile", "Theo", "T."]
+    url: https://theophilegervet.github.io/
+
+"Gervet*":
   - firstname: ["Theophile", "Theo", "T."]
     url: https://theophilegervet.github.io/
 
@@ -59,6 +96,10 @@
     url: https://www.linkedin.com/in/john-turner-6765073/
 
 "Mao":
+  - firstname: ["Yongsen", "Y."]
+    url: https://github.com/SamMaoYS
+
+"Mao*":
   - firstname: ["Yongsen", "Y."]
     url: https://github.com/SamMaoYS
 
