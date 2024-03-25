@@ -8,6 +8,14 @@ display_categories: [work, fun]
 horizontal: true
 ---
 
+- ##### Technology Investigation Intern -- <span style="font-weight:400">[Apple](https://www.apple.com)</span> <img src="https://cdn-icons-png.flaticon.com/256/0/747.png" width="50px" style="margin:15px" align="right">
+  
+  [Jan 2024 - Present]
+  
+  Working in the Vision Products Group (VPG) on computer vision for AR/VR applications.
+
+---
+
 - ##### Graduate Research Assistant -- <span style="font-weight:400">[Georgia Tech](https://www.gatech.edu/)</span> <img src="https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png" width="70px" style="margin:15px" align="right">
   
   [Aug 2022 - Present]
@@ -38,7 +46,7 @@ horizontal: true
     <!-- <img src="{{ site.baseurl }}/assets/img/emqa_teaser.png" width="70%"> -->
 
 ---
-- ##### Research Fellow -- <span style="font-weight:400">[Robotics Research Center](https://robotics.iiit.ac.in)</span>, IIIT Hyderabad <img src="https://d1hl0z0ja1o93t.cloudfront.net/wp-content/uploads/2017/04/21165916/logo2.png" width="75px" align="right" style="margin:15px">
+- ##### Research Fellow -- <span style="font-weight:400">[Robotics Research Center](https://robotics.iiit.ac.in)</span>, IIIT Hyderabad <img src="https://robotics.iiit.ac.in//images/logopic/rrc_logo.png" width="75px" align="right" style="margin:15px">
   
   [Jan 2020 - Mar 2021]
 
