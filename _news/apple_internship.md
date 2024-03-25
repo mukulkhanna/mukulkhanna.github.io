@@ -7,4 +7,7 @@ inline: false
 
 I'll be working in the Vision Products Group (VPG) on computer vision for AR/VR applications.
 
-![](assets/img/apple_internship/2.JPG)
+<img src="/assets/img/apple_internship/2.JPG" width="180px" height="225px">
+<img src="/assets/img/apple_internship/3.JPG" width="180px" height="225px">
+<img src="/assets/img/apple_internship/1.JPG" width="180px" height="225px">
+<img src="/assets/img/apple_internship/4.JPG" width="180px" height="225px">
