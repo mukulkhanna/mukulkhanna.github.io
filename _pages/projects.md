@@ -8,9 +8,9 @@ display_categories: [work, fun]
 horizontal: true
 ---
 
-- ##### Technology Investigation Intern -- <span style="font-weight:400">[Apple](https://www.apple.com)</span> <img src="https://cdn-icons-png.flaticon.com/256/0/747.png" width="50px" style="margin:15px" align="right">
+- ##### ML Intern -- <span style="font-weight:400">[Apple](https://www.apple.com)</span> <img src="https://cdn-icons-png.flaticon.com/256/0/747.png" width="50px" style="margin:15px" align="right">
   
-  [Jan 2024 - Present]
+  [Jan 2024 - Aug 2024]
   
   Working in the Vision Products Group (VPG) on computer vision for AR/VR applications.
 

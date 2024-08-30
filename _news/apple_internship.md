@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joined Apple  as an intern!
+title: Joined Apple  Vision Products Group as a spring and summer intern!
 date: 2024-01-15 07:59:00-0400
 inline: false
 ---
