@@ -12,7 +12,7 @@
   Mukul  Khanna
 
 
-  | blog
+  | Building Facades to Normal Maps: Adversarial Learning from Single View Images
 
 </title>
 <meta name="description" content="Personal website homepage of Mukul Khanna.
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧑🏻‍🚀</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/building-facade-normal-estimation-crv/">
 
 
 
@@ -77,8 +77,6 @@
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -170,119 +168,69 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>Archives from 2017-19.</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">Building Facades to Normal Maps: Adversarial Learning from Single View Images</h1>
+    <!-- <p class="post-description">Project page for our [`Building Facades to Normal Maps – Adversarial Learning from Single View Images`](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kWAlOAkAAAAJ&citation_for_view=kWAlOAkAAAAJ:qjMakFHDy7sC) work accepted at [`CRV 2021`](https://www.computerrobotvision.org/).</p> -->
+    <p class="post-description"></p>
+<p>Project page for our <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=kWAlOAkAAAAJ&amp;citation_for_view=kWAlOAkAAAAJ:qjMakFHDy7sC" target="_blank" rel="noopener noreferrer"><code class="language-plaintext highlighter-rouge">Building Facades to Normal Maps – Adversarial Learning from Single View Images</code></a> work accepted at <a href="https://www.computerrobotvision.org/" target="_blank" rel="noopener noreferrer"><code class="language-plaintext highlighter-rouge">CRV 2021</code></a>.</p>
 
+  </header>
 
-  <ul class="post-list">
-    
+  <article>
+    <div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="/assets/img/CRV/teaser.png">
+    </div>
+</div>
 
-    
-    
-    
-    
+<hr>
 
-    <li>
-      <h3><a class="post-title" href="/blog/2021/diagrams/">Diagrams</a>
-      </h3>
-      <p></p>
-      <p class="post-meta"> 2 min read &nbsp; &middot; &nbsp;
-        July 4, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
+<!-- Project page for our `Building Facades to Normal Maps– Adversarial Learning from Single View Images` work accepted at [`CRV 2021`](https://www.computerrobotvision.org/). -->
 
-          
+<!-- **Authors:** Mukul Khanna <sup>*</sup>, Tanu Sharma <sup>*</sup>, Ayyappa Swamy Thatavarthy, K. Madhava Krishna -->
+<p><strong>Authors:</strong> Mukul Khanna*, Tanu Sharma*, Ayyappa Swamy Thatavarthy, K. Madhava Krishna</p>
 
-          
-    </p>
-    </li>
+<hr>
 
-    
+<h5 id="abstract">Abstract</h5>
 
-    
-    
-    
-    
+<p>Surface normal estimation is an essential component of several computer and robot vision pipelines. While this problem has been extensively studied, most approaches are geared towards indoor scenes and often rely on multiple modalities (depth, multiple views) for accurate estimation of normal maps.
+Outdoor scenes pose a greater challenge as they exhibit significant lighting variation, often contain occluders, and structures like building facades are often ridden with numerous windows and protrusions.
+Conventional supervised learning schemes excel in indoor scenes, but do not exhibit competitive performance when trained and deployed in outdoor environments. Furthermore, they are not geared towards real-time inference.
+To tackle these challenges, we present an adversarial learning scheme that regularizes the output normal maps from a neural network to appear more realistic, by using a small number of precisely annotated examples.
+Our method presents a lightweight and simpler architecture, while improving performance by at least 2x to 4x across most metrics.</p>
 
-    <li>
-      <h3><a class="post-title" href="/blog/2021/distill/">a distill-style blog post</a>
-      </h3>
-      <p>an example of a distill-style blog post and main elements</p>
-      <p class="post-meta"> 2 min read &nbsp; &middot; &nbsp;
-        May 22, 2021
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2021">
-          <i class="fas fa-calendar fa-sm"></i> 2021 </a>
+<hr>
 
-          
+<h4 id="dataset">Dataset</h4>
 
-          
-    </p>
-    </li>
+<div class="row mt-3" align="center">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-0" src="/assets/img/CRV/dataset-collage.png">
+    </div>
+</div>
+<div class="caption">
+    Custom Synthia dataset with plane instance annotations and normal maps.
+</div>
 
-    
+<h5 id="overview">Overview</h5>
 
-    
-    
-    
-    
+<p><a href="https://synthia-dataset.net/" target="_blank" rel="noopener noreferrer">The Synthia dataset</a> includes RGB images, depth maps, camera poses, and semantic segmentation maps of synthetic city scene image sequences. However, due to the unavailability of plane instance segmentation and normal maps in Synthia, we have manually annotated the plane instances for a subset of the dataset (<code class="language-plaintext highlighter-rouge">Synthia-Summer-Seq-04</code>). Using these plane instance annotations, for each plane, we randomly choose three pixels on the plane and convert them to 3D camera points using the corresponding depth map and camera matrix. Subsequently, we use the three 3D points to obtain normal and depth values for each plane.</p>
 
-    <li>
-      <h3><a class="post-title" href="/blog/2020/github-metadata/">a post with github metadata</a>
-      </h3>
-      <p>a quick run down on accessing github metadata.</p>
-      <p class="post-meta"> 2 min read &nbsp; &middot; &nbsp;
-        September 28, 2020
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2020">
-          <i class="fas fa-calendar fa-sm"></i> 2020 </a>
+<p>This dataset comprises 2020 city scene RGB images, normal maps, and segmentation masks of size 1280 x 760 with 1620 training and 400 testing samples.</p>
 
-          
+<h4 id="resources">Resources</h4>
 
-          
-          &nbsp; &middot; &nbsp;
-            
-            <a href="/blog/category/sample-posts">
-              <i class="fas fa-tag fa-sm"></i> sample-posts</a> &nbsp;
-              
-            <a href="/blog/category/external-services">
-              <i class="fas fa-tag fa-sm"></i> external-services</a> &nbsp;
-              
-          
-    </p>
-    </li>
+<ul>
+  <li><a href="https://drive.google.com/drive/folders/1rF_M7lUy8r8sNRxL201NR5lG23MK2jKv?usp=sharing" target="_blank" rel="noopener noreferrer">Dataset</a></li>
+  <li><a href="https://github.com/mukulkhanna/BF2NormalNet/" target="_blank" rel="noopener noreferrer">Code</a></li>
+</ul>
 
-    
-  </ul>
+<h5 id="acknowledgement">Acknowledgement</h5>
 
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="blog">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
+<p>We thank <a href="https://in.linkedin.com/in/shivaan-sehgal-6864991aa" target="_blank" rel="noopener noreferrer">Shivaan Sehgal</a> and <a href="https://www.linkedin.com/in/sidhant-subramanian-02a90514a" target="_blank" rel="noopener noreferrer">Sidhant Subramanian</a> for preparing the manual annotations.</p>
 
-
+  </article>
 
 </div>
 
@@ -293,7 +241,7 @@
     
 <footer class="sticky-bottom mt-5">
   <div class="container">
-    &copy; Copyright 2025 Mukul  Khanna.
+    © Copyright 2025 Mukul  Khanna.
     
     
     
