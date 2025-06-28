@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm an MS student at Georgia Tech advised by [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/), working on computer vision and embodied AI research. I was an ML intern with Apple's  Vision Products Group over spring and summer of 2024, and before that have had the privilege of working closely with [Prof. Manolis Savva](https://msavva.github.io/) and [Prof. Angel Chang](https://angelxuanchang.github.io/) at Simon Fraser University. 
+I'm an ML Engineer at Waymo. Previously, I was an MS student at Georgia Tech advised by [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/), working on computer vision and embodied AI research. I was also an ML intern with Apple's  Vision Products Group over spring and summer of 2024, and before that have had the privilege of working closely with [Prof. Manolis Savva](https://msavva.github.io/) and [Prof. Angel Chang](https://angelxuanchang.github.io/) at Simon Fraser University. 
 
 In a distant past, I have also had the privilege of interning at the Robotics Research Center at IIIT Hyderabad, advised by [Prof. K. Madhava Krishna](https://www.iiit.ac.in/people/faculty/mkrishna/) and at IIT Gandhinagar, advised by [Prof. Shanmuga Raman](https://people.iitgn.ac.in/~shanmuga/).
 

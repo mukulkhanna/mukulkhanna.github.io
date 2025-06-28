@@ -8,6 +8,14 @@ display_categories: [work, fun]
 horizontal: true
 ---
 
+- ##### ML Engineer, Perception -- <span style="font-weight:400">[Waymo](https://www.apple.com)</span> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Waymo_logo.svg/2560px-Waymo_logo.svg.png" width="60px" style="margin:15px" align="right">
+  
+  [Jan 2025 - Now]
+  
+  Working in the Perception org on the sensor-fusion stack for their self-driving fleet.
+
+---
+
 - ##### ML Intern -- <span style="font-weight:400">[Apple](https://www.apple.com)</span> <img src="https://cdn-icons-png.flaticon.com/256/0/747.png" width="50px" style="margin:15px" align="right">
   
   [Jan 2024 - Aug 2024]
